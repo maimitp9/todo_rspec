@@ -1,0 +1,31 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/mnt/c/sites/todo_rspec/app/models/item.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null
+      ],
+      "/mnt/c/sites/todo_rspec/app/models/list.rb": [
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1545964684
+  }
+}
