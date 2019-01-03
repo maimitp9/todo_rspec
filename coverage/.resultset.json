@@ -21,7 +21,6 @@
         1,
         1,
         1,
-        1,
         null
       ],
       "/home/maimit/sites/todo_rspec/app/models/concerns/sluggable.rb": [
@@ -29,8 +28,8 @@
         1,
         null,
         1,
-        0,
-        0,
+        1,
+        1,
         null,
         null,
         1,
@@ -38,8 +37,8 @@
         3,
         null,
         null,
-        1,
-        0,
+        null,
+        null,
         null,
         null,
         1,
@@ -50,6 +49,6 @@
         null
       ]
     },
-    "timestamp": 1546499500
+    "timestamp": 1546506006
   }
 }

@@ -1,7 +1,7 @@
 module Sluggable
   extend ActiveSupport::Concern
 
-  include do
+  included do
     before_create :set_slug
     validates :slug, uniqueness: true
   end
