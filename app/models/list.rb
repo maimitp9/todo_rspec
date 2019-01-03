@@ -1,7 +1,6 @@
 class List < ApplicationRecord
-  extend FriendlyId
-  friendly_id :name, use: :slugged
+  include Sluggable
+  before_create :set_slug
   has_many :items
-
   validates :name, presence: true
 end

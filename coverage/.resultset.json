@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/mnt/c/sites/todo_rspec/app/models/item.rb": [
+      "/home/maimit/sites/todo_rspec/app/models/item.rb": [
         1,
         1,
         1,
@@ -16,16 +16,40 @@
         null,
         null
       ],
-      "/mnt/c/sites/todo_rspec/app/models/list.rb": [
-        0,
-        0,
+      "/home/maimit/sites/todo_rspec/app/models/list.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/maimit/sites/todo_rspec/app/models/concerns/sluggable.rb": [
+        1,
+        1,
+        null,
+        1,
         0,
         0,
         null,
+        null,
+        1,
+        3,
+        3,
+        null,
+        null,
+        1,
         0,
-        0
+        null,
+        null,
+        1,
+        null,
+        1,
+        3,
+        null,
+        null
       ]
     },
-    "timestamp": 1545964684
+    "timestamp": 1546499219
   }
 }
